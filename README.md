@@ -41,7 +41,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-3YILZGTXL6)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-HVO-sIMQvl)
 - Live Site URL: [Live Site](https://rahimi-1997.github.io/Testimonials-grid-section/)
 
 ## My process
